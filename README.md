@@ -5,7 +5,8 @@ My subjects in A level were:
 - Mathematics
 + Chemistry
 * Physics
-The classes were scheduled as:
+
+  The classes were scheduled as:
 1. Mathematics
 2. Physics
 3. Chemistry
